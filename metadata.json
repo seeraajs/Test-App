@@ -1,0 +1,6 @@
+{
+  "name": "Test App",
+  "description": "A clean, elegant hello world and test application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
